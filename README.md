@@ -8,7 +8,7 @@
 
 A single JavaScript file (~600 lines) that handles the complete Solid-OIDC authentication flow. No bundler, no transpiler, no build step required.
 
-[**Live Demo**](https://javascriptsolidserver.github.io/solid-oidc/example.html) · [**API Reference**](#api-reference) · [**Examples**](#advanced-usage)
+[**Live Demo**](https://bourgeoa.github.io/solid-oidc/example.html) · [**API Reference**](#api-reference) · [**Examples**](#advanced-usage)
 
 ---
 
