@@ -26,7 +26,7 @@ import {
   createRemoteJWKSet,
   jwtVerify,
   calculateJwkThumbprint
-} from 'jose'
+} from 'https://esm.sh/jose@5'
 
 // ============================================================================
 // Session Events
